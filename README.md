@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cryptoquokkas
+- 👋 Hi, I’m @TheQuokka
 - 👀 I’m interested in digital art
 - 🌱 I’m currently learning NFTs
 - 💞️ I’m looking to collaborate on Opensea.
